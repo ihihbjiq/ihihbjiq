@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @ihihbjiq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 嗨，我是 @ihihbjiq
 
-<!---
-ihihbjiq/ihihbjiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 我对软件开发、开源项目和人工智能感兴趣。
+
+🌱 我正在学习 Python 和网页开发。
+
+💞️ 我希望能够参与适合初学者的开源项目合作。
+
+📫 联系我：[你的邮箱或社交媒体账号]
+
+😄 我的代称是：[例如，他/他，她/她，他们/它们]
+
+⚡ 有趣的事实：我喜欢徒步旅行和探索新地方！
