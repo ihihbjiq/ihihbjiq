@@ -22,6 +22,7 @@ gur.gov.ua:443#🇺🇸US
 shopify.com:443#🇺🇸US
 www.gov.se:443#🇺🇸US
 www.visa.com:443#🇺🇸US
+www.visa.cn:443#🇺🇸US
 www.wto.org:443#🇺🇸US
 russia.com:443#🇭🇰HK
 icook.tw:443#🇺🇸US
