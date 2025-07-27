@@ -24,8 +24,11 @@ www.gov.se:443#🇺🇸US
 www.visa.com:443#🇺🇸US
 www.visa.cn:443#🇺🇸US
 www.wto.org:443#🇺🇸US
+chinese.com:443#🇭🇰HK
 russia.com:443#🇭🇰HK
 icook.tw:443#🇺🇸US
+macau.com:443#🇭🇰HK
+tokyo.com:443#🇭🇰HK
 japan.com:443#🇭🇰HK
 fbi.gov:443#🇺🇸US
 time.is:443#🇭🇰HK
