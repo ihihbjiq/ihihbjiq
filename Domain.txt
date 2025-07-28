@@ -26,6 +26,7 @@ www.visa.cn:443#🇺🇸US
 www.wto.org:443#🇺🇸US
 chinese.com:443#🇭🇰HK
 russia.com:443#🇭🇰HK
+whoer.com:443#🇺🇸US
 icook.tw:443#🇺🇸US
 macau.com:443#🇭🇰HK
 tokyo.com:443#🇭🇰HK
