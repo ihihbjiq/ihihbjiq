@@ -1,6 +1,6 @@
 www.iplocation.net:443#🇭🇰HK
 www.digitalocean.com:443#🇺🇸US
-www.whatismyip.com:443#🇭🇰HK
+www.whatismyip.com:443#🇺🇸US
 www.glassdoor.com:443#🇺🇸US
 www.visakorea.com:443#🇺🇸US
 www.visa.com.hk:443#🇺🇸US
