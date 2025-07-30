@@ -3,6 +3,7 @@ www.whatismyip.com:443#🇺🇸US
 www.glassdoor.com:443#🇺🇸US
 www.visakorea.com:443#🇺🇸US
 www.iplocation.net:443#🇺🇸US
+nrtcfdns.zone.id:443#🇺🇸US
 www.visa.com.hk:443#🇺🇸US
 www.visa.com.sg:443#🇺🇸US
 www.visa.com.tw:443#🇺🇸US
