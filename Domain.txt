@@ -35,6 +35,8 @@ whoer.com:443#🇺🇸US
 gur.gov.ua:443#🇺🇸US
 tokyo.com:443#🇺🇸US
 japan.com:443#🇺🇸US
+cdn.7zz.cn:443#🇺🇸US
+icook.hk:443#🇺🇸US
 icook.tw:443#🇺🇸US
 fbi.gov:443#🇺🇸US
 time.is:443#🇺🇸US
