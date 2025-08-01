@@ -16,6 +16,7 @@ www.pcmag.com:443#🇺🇸US
 www.udemy.com:443#🇺🇸US
 www.zsu.gov.ua:443#🇺🇸US
 www.whoer.net:443#🇭🇰HK
+registry.cyou:443#🇫🇷FR
 www.csgo.com:443#🇺🇸US
 www.4chan.org:443#🇺🇸US
 www.visa.co.jp:443#🇺🇸US
