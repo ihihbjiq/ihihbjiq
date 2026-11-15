@@ -2,7 +2,7 @@ https://raw.githubusercontent.com/RIKKASAIKOq/cf-ip-pool/main/output/ipv4.txt
 
 ---
 
-https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top50.txt
+https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top50.txt 移动
 
 ---
 
