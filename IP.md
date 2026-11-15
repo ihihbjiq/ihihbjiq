@@ -1,3 +1,7 @@
+https://raw.githubusercontent.com/LancelotRar/best-cf-ips/main/best-cf-ip-scanned-top100.txt
+
+---
+
 | 网段 | 起始 IP | 结束 IP |
 |---|---|---|
 | `173.245.48.0/20` | 173.245.48.0 | 173.245.63.255 |
